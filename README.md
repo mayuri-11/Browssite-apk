@@ -8,7 +8,7 @@ This repository hosts the APK file for the app and provides additional informati
 ## 📲 Download
 
 Click the link below to download the APK file:  
-[Browssite APK v1.0](https://github.com/your-username/repository-name/releases/download/v1.0.0/browssite.apk)
+[Browssite APK v1.0](https://github.com/mayuri-11/Browssite-apk/releases/tag/v1.0.0)
 
 ---
 
